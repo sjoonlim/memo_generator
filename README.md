@@ -42,7 +42,7 @@ Google Cloud Vision API credentials JSON file
 ## Installation
 1. Clone the Repository
 ```bash
-git clone https://github.com/danielp1234/memo-generator.git
+git clone https://github.com/dforwardfeed/memo_generator.git
 cd memo-generator
 ```
 
